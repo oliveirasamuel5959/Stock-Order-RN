@@ -1,0 +1,40 @@
+{
+    "result": [
+        {
+            "currency": "USD",
+            "symbolName": "Apple",
+            "symbol": "AAPL",
+            "price": 191.24
+        },
+        {
+            "currency": "USD",
+            "symbolName": "Amazon",
+            "symbol": "AMZN",
+            "price": 147.03
+        },
+        {
+            "currency": "USD",
+            "symbolName": "Tesla Inc",
+            "symbol": "TSLA",
+            "price": 238.83
+        },
+        {
+            "currency": "USD",
+            "symbolName": "Netflix",
+            "symbol": "NFLX",
+            "price": 123.32
+        },
+        {
+            "currency": "USD",
+            "symbolName": "Facebook",
+            "symbol": "META",
+            "price": 324.82
+        },
+        {
+            "currency": "USD",
+            "symbolName": "Microsoft",
+            "symbol": "MSFT",
+            "price": 374.51
+        }
+    ]
+}
